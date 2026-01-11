@@ -1,4 +1,4 @@
 # project_demo
 This is my first repository . 
 <br>
-Author - Akash Pradhani
+Author - Akash (CSEDS)
